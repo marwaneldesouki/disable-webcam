@@ -2,6 +2,7 @@
 disable webcam using registry editor by disable-webcam-by-deso
 
 ![Screenshot (161)](https://i.ibb.co/rGVx62S/Screenshot-402.png)
+![Screenshot (161)](https://i.ibb.co/rp5tcHZ/Screenshot-403.png)
 
 # How to use
 
